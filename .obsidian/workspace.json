@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3baf8772c1f73b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40490e6893d11350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb527e4a474b0bb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240229183558.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8477c44872e92228",
+    "type": "split",
+    "children": [
+      {
+        "id": "73feff5be452babe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32077e331d58b58b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "784af1a795b06944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "769f21fb0fa78d2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d142c31fe8c0799c",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a421617098e9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687290ccd459b0a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20240229183558.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abac7a5a402dbfc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20240229183558.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1dab06a4fd671b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fe40ad877de6e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20240229183558.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "32077e331d58b58b",
+  "lastOpenFiles": [
+    "第二章/同步.md",
+    "第二章/调度.md",
+    "第三章",
+    "第二章/进程.md",
+    "第二章/线程.md",
+    "Pasted image 20240330205044.png",
+    "Pasted image 20240330204851.png",
+    "Pasted image 20240330204622.png",
+    "Pasted image 20240330204543.png",
+    "Pasted image 20240330203712.png",
+    "Pasted image 20240330203124.png",
+    "Pasted image 20240310153002.png",
+    "第一章/操作系统运行机制.md",
+    "第二章",
+    "第一章/操作系统引导（system boot）.md",
+    "第一章/操作系统体系结构.md",
+    "第一章/中断与异常.md",
+    "第一章/虚拟机.md",
+    "第一章/系统调用.md",
+    "第一章/操作系统的发展和分类.md",
+    "Pasted image 20240229193709.png",
+    "Pasted image 20240229193600.png",
+    "Pasted image 20240229192846.png",
+    "Welcome.md",
+    "未命名 1",
+    "第一章"
+  ]
+}

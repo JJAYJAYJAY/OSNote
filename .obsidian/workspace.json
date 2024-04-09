@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章/操作系统体系结构.md",
+                "file": "第二章/进程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章/操作系统体系结构.md",
+                "file": "第二章/进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章/操作系统体系结构.md",
+                "file": "第二章/进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章/操作系统体系结构.md"
+                "file": "第二章/进程.md"
               }
             }
           }
@@ -148,29 +148,30 @@
   },
   "active": "aeb527e4a474b0bb",
   "lastOpenFiles": [
-    "第一章/中断与异常.md",
-    "第一章/虚拟机.md",
-    "第一章/系统调用.md",
-    "image/Pasted image 20240330205044.png",
-    "image/Pasted image 20240330204851.png",
-    "image/Pasted image 20240330204543.png",
-    "image/Pasted image 20240330203712.png",
-    "image/Pasted image 20240330203124.png",
-    "image/Pasted image 20240310153002.png",
-    "image/Pasted image 20240229193709.png",
-    "image/Pasted image 20240229193600.png",
-    "image/Pasted image 20240229192846.png",
-    "image/Pasted image 20240229191321.png",
+    "第二章/调度.md",
+    "第二章/进程.md",
+    "第二章/同步.md",
+    "第二章/线程.md",
+    "第一章/操作系统的发展和分类.md",
+    "第一章/操作系统体系结构.md",
     "第一章/操作系统引导（system boot）.md",
     "第一章/操作系统运行机制.md",
-    "第一章/操作系统的发展和分类.md",
-    "第二章/同步.md",
-    "第二章/调度.md",
+    "第一章/系统调用.md",
+    "第一章/中断与异常.md",
+    "第一章/虚拟机.md",
+    "image/image4.png",
+    "第二章/image4.png",
+    "第二章/image.png",
+    "第二章/image.4png",
+    "image/image3.png",
+    "第二章/image3.png",
+    "image/image2.png",
+    "第二章/image2.png",
+    "image/image1.png",
+    "第二章/image1.png",
+    "image/image.png",
     "第三章",
-    "第二章/进程.md",
-    "第二章/线程.md",
     "第二章",
-    "第一章/操作系统体系结构.md",
     "Welcome.md",
     "未命名 1",
     "第一章"
